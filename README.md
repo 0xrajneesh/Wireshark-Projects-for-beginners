@@ -61,20 +61,17 @@ Hi, I'm Rajneesh Gupta, security consultant, Coach and 2 times best-selling Auth
 
 ## Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rajneeshcyber)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/rajneeshcyber)
-- **YouTube Channel**: [Your YouTube Channel](https://www.youtube.com/channel/rajneeshcyber)
+- **LinkedIn**: [Rajneesh Gupta](https://www.linkedin.com/in/rajneeshcyber)
+- **Twitter**: [@rajneeshcyber](https://twitter.com/rajneeshcyber)
+- **YouTube Channel**: [Rajneesh Gupta](https://www.youtube.com/channel/rajneeshcyber)
 
 Feel free to connect with me on any of these platforms!
 
 ## Professional Services
 
-For professional services and consultations, please visit my company website at [Your Company Website](https://www.yourcompany.com).
+For professional services and consultations, please visit my company website at [Hax Security](https://www.haxsecurity.com).
 
 Thank you for visiting my GitHub page!
 
 ---
-
-© [Current Year] [Your Name]. All rights reserved.
-
 
