@@ -53,21 +53,28 @@ Capture and analyze VoIP traffic using Wireshark. This project covers capturing 
 3. **Follow the Instructions:**
     Open the corresponding markdown file and follow the step-by-step instructions to complete the exercises.
 
-## Contributing
 
-We welcome contributions to enhance these projects. Feel free to open issues or submit pull requests with improvements or new projects.
 
-## License
+## About Me
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Hi, I'm Rajneesh Gupta, security consultant, Coach and 2 times best-selling Author. I share security projects to help people to excel in security domain.
 
-## Contact
+## Connect with Me
 
-For any questions or suggestions, please open an issue or contact the repository owner.
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rajneeshcyber)
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/rajneeshcyber)
+- **YouTube Channel**: [Your YouTube Channel](https://www.youtube.com/channel/rajneeshcyber)
+
+Feel free to connect with me on any of these platforms!
+
+## Professional Services
+
+For professional services and consultations, please visit my company website at [Your Company Website](https://www.yourcompany.com).
+
+Thank you for visiting my GitHub page!
 
 ---
 
-Happy Learning!
+© [Current Year] [Your Name]. All rights reserved.
 
-Rajneesh Gupta
-haxsecurity.com
+
